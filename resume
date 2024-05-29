@@ -1,0 +1,125 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Jacob N. Childs - Resume</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            line-height: 1.6;
+            margin: 0;
+            padding: 20px;
+            background-color: #f4f4f4;
+        }
+        .container {
+            max-width: 800px;
+            margin: auto;
+            background: #fff;
+            padding: 20px;
+            border-radius: 5px;
+            box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+        }
+        h1, h2 {
+            color: #333;
+        }
+        .contact-info {
+            margin-bottom: 20px;
+        }
+        .contact-info p {
+            margin: 5px 0;
+        }
+        .section {
+            margin-bottom: 20px;
+        }
+        .section h2 {
+            border-bottom: 2px solid #333;
+            padding-bottom: 5px;
+        }
+        .section ul {
+            list-style-type: none;
+            padding: 0;
+        }
+        .section li {
+            margin-bottom: 10px;
+        }
+    </style>
+</head>
+<body>
+
+<div class="container">
+    <h1>Jacob N. Childs</h1>
+    <div class="contact-info">
+        <p>26208 Oakcrest Lane, Plainfield, IL 60585</p>
+        <p>Email: <a href="mailto:Jacobchilds221@gmail.com">Jacobchilds221@gmail.com</a></p>
+        <p>Phone: 815-600-4362</p>
+    </div>
+
+    <div class="section">
+        <h2>Education</h2>
+        <p><strong>The University of Iowa | Iowa City, IA</strong> <em>Anticipated May 2025</em></p>
+        <ul>
+            <li>B.A. Computer Science</li>
+            <li>Certificate in Entrepreneurial Management</li>
+            <li>GPA: 3.31/4.0</li>
+        </ul>
+    </div>
+
+    <div class="section">
+        <h2>Class Project Experience</h2>
+        <p><strong>Group Agile Software Development Project</strong> <em>Fall 2023</em></p>
+        <p>Department of Computer Science | The University of Iowa | Iowa City, IA</p>
+        <ul>
+            <li>Collaborated with three other peers to create a visualization class for an existing program.</li>
+            <li>Displayed important information in a new window that visualized the processes in the system.</li>
+            <li>The system created the most efficient schedule to transmit a signal across different nodes.</li>
+        </ul>
+    </div>
+
+    <div class="section">
+        <h2>Work Experience</h2>
+        <p><strong>Golf Course Attendant</strong> <em>August 2022 – Current</em></p>
+        <p>Finkbine Golf Course | The University of Iowa | Iowa City, IA</p>
+        <ul>
+            <li>Responsible for opening and closing the golf course daily.</li>
+            <li>Ensures positive customer experience by greeting and meeting their needs, on and off course.</li>
+            <li>Communicates effectively with staff to ensure a smooth and pleasant transition for patron’s golf experience.</li>
+        </ul>
+
+        <p><strong>Bag Drop Attendant</strong> <em>May 2023 - August 2023</em></p>
+        <p>Mistwood Golf Club | Romeoville, IL</p>
+        <ul>
+            <li>Set up and managed large golf outings of over 100 people.</li>
+            <li>Kept track of incoming golfers and their tee times to ensure smooth operation throughout the day.</li>
+            <li>Responsible for collecting and distributing monetary tips for the shift.</li>
+            <li>Demonstrated attention to detail by keeping an organized layout of course entrance and cart staging area.</li>
+        </ul>
+    </div>
+
+    <div class="section">
+        <h2>Technical Skills</h2>
+        <ul>
+            <li>Java, Python, Object Oriented Programming, Agile Development, Git Version Control, Data Structures, Debugging, JavaDoc, Junit Testing, Computer Hardware, Algorithms</li>
+        </ul>
+    </div>
+
+    <div class="section">
+        <h2>Past Projects</h2>
+        <ul>
+            <li><strong>Handicap Tracker</strong> | May 2023 – A Java program that tracks and calculates your golf handicap according to USGA regulations.</li>
+            <li><strong>Tile Dash</strong> | May 2022 – A graphics-based Python game built with custom made visual and sound elements.</li>
+        </ul>
+    </div>
+
+    <div class="section">
+        <h2>College Activities</h2>
+        <ul>
+            <li>Member | Association of Computing Machinery | August 2022 – Present</li>
+            <li>Member | Tippie Technology & Innovation Association | August 2022 – Present</li>
+            <li>Member | Golf Club | February 2022 – Present</li>
+        </ul>
+    </div>
+</div>
+
+</body>
+</html>
